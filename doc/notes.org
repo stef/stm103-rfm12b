@@ -1,0 +1,4 @@
+http://openenergymonitor.org/emon/buildingblocks/rfm12b-wireless
+http://openenergymonitor.org/emon/buildingblocks/rfm12b2
+http://www.elektor-labs.com/project/rfm12-library-for-stm32-written-in-c.13853.html
+https://www.das-labor.org/wiki/RFM12_library/en
