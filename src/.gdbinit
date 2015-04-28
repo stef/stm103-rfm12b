@@ -14,8 +14,8 @@ end
 
 define inject
   delete breakpoints
-  symbol-file test.elf
-  restore test.bin binary 0x20000000
+  symbol-file tx.elf
+  restore tx.bin binary 0x20000000
   break test
   jump test
   delete breakpoints
